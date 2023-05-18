@@ -22,7 +22,7 @@
 
   <br>
 
-  <img heigh ="180em" src = "./pontosnegativos/alistamento.png">
+  <img heigh ="180em" src = "./pontosNegativos/alistamento.png">
 
   <h4>Descição: Lei da heurística Nº 6: Reconhecimento em vez de lembrança;</h4>
 
@@ -36,7 +36,7 @@
 
   <br>
 
-  <img heigh ="180em" src = "./pontosnegativos/extra.png"></img>
+  <img heigh ="180em" src = "./pontosNegativos/extra.png"></img>
 
   <h4>Descição: Lei da heurística Nº 8: Design estético e minimalista;</h4>
 
@@ -52,9 +52,9 @@
    <h3>3 e 4 - hemmy.net
    <br></br>
 
-  <img heigh ="180em" src = "./pontosnegativos/hemmy.png"></img>
+  <img heigh ="180em" src = "./pontosNegativos/hemmy.png"></img>
 
-<img heigh ="180em" src = "./pontosnegativos/hemmy2.png"></img>
+<img heigh ="180em" src = "./pontosNegativos/hemmy2.png"></img>
 
 <h4>Descição: Lei da heurística Nº 8: Design estético e minimalista;</h4>
 
